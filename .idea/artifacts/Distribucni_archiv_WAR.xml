@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Distribucni archiv WAR">
+    <output-path>$PROJECT_DIR$/out/artifacts/target</output-path>
+    <root id="root">
+      <element id="archive" name="ROOT.war">
+        <element id="dir-copy" path="$PROJECT_DIR$/static" />
+      </element>
+    </root>
+  </artifact>
+</component>
